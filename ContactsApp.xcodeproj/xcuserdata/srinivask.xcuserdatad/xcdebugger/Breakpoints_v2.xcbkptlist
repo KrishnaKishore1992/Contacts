@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "USBankContactsApp/ViewModel/USBContactsViewModel.swift"
+            timestampString = "579028426.636525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "insertNewContact(contact:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "USBankContactsApp.USBContactsViewModel.insertNewContact(contact: Swift.Optional&lt;__C.CNContact&gt;) -&gt; ()"
+                  moduleName = "USBankContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srinivask/Desktop/USBankContactsApp/USBankContactsApp/ViewModel/USBContactsViewModel.swift"
+                  timestampString = "579028393.225172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.CNLabeledValue&lt;__C.CNPhoneNumber&gt;) -&gt; USBankContactsApp.Phone in USBankContactsApp.USBContactsViewModel.insertNewContact(contact: Swift.Optional&lt;__C.CNContact&gt;) -&gt; ()"
+                  moduleName = "USBankContactsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/srinivask/Desktop/USBankContactsApp/USBankContactsApp/ViewModel/USBContactsViewModel.swift"
+                  timestampString = "579028393.229642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
